@@ -17,9 +17,10 @@ File test.m is the entrance of the program. The file calls the file "run_decisio
 File test.m is the entrance of the program. The file calls the file "run_decision_rules.m", which actually generates index tracking  instances and compare different decision rules over these instances. The compared decision rules are implemented in approxSL.m (aproximate S-Lemma decision rule), lqdr.m (linear and quadratic decision rule), and pdr.m (polynomial decision rule) with degrees 2 and 3. 
 
 
-# References
+## References
 ApS M (2016) The MOSEK optimization toolbox for MATLAB manual. Version 8.0. URL http://docs.
 mosek.com/8.0/toolbox/index.html
+
 Lofberg J (2004) Yalmip: A toolbox for modeling and optimization in matlab. Computer Aided Control
 Systems Design, 2004 IEEE International Symposium on, 284–289 (IEEE)
 
